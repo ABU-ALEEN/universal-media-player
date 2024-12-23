@@ -1,0 +1,6 @@
+PyQt6==6.6.1
+python-vlc==3.0.20123
+PyQt5
+requests==2.31.0
+m3u8
+yt-dlp==2023.12.30
